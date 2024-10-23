@@ -1,5 +1,6 @@
 # 🎨 Photoshop Posters
 
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225208.png" width="100%" height="auto"/>
 Welcome to my **Photoshop Posters** repository! 🖼️ This collection features all the posters I’ve designed using Adobe Photoshop, showcasing creativity and various artistic styles.
 
 ## ℹ️ About
@@ -27,3 +28,7 @@ These posters are not licensed for public or commercial use. They remain the exc
 ## 🙏 Acknowledgements
 
 Thank you for checking out my poster designs! Feel free to browse and get inspired, but remember—these works are for viewing purposes only. 🙌
+
+## 🖼️ Other Socials
+
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225237.png" width="100%" height="auto"/>
