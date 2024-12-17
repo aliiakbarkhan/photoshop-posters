@@ -1,6 +1,21 @@
-# 🎨 Photoshop Posters
 
-<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225208.png" width="100%" height="auto"/>
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
+<p align="center">
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>        
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.1.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.3.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.1.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-14.png" width="30%"/>  
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.2.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-16.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.1.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-17.png" width="30%"/>
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-21.1.png" width="30%"/>
+</p>
+
+
 Welcome to my **Photoshop Posters** repository! 🖼️ This collection features all the posters I’ve designed using Adobe Photoshop, showcasing creativity and various artistic styles.
 
 ## All Rights Reserved.
@@ -37,3 +52,5 @@ Thank you for checking out my poster designs! Feel free to browse and get inspir
 ## 🖼️ Other Socials
 
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225237.png" width="100%" height="auto"/>
+
+<img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225208.png" width="100%" height="auto"/>
