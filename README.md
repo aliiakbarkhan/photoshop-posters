@@ -1,5 +1,8 @@
+<h2 align="center">Photoshop Posters</h2>
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dfcu60j-004620a2-e00b-4497-93a3-b9ea738b6677.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGZjdTYwai0wMDQ2MjBhMi1lMDBiLTQ0OTctOTNhMy1iOWVhNzM4YjY2NzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ijuwd__qK1Lwx0G0JnNKiiTBMv3FYfhD_Dm5YJjbaok" />
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Photoshop Posters
+
+<h2 align="center">Demo Posters</h2>
 <p align="center">
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-13.2.png" width="30%"/>    
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/Untitled-12.2.png" width="30%"/>        
