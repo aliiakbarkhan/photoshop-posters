@@ -26,33 +26,33 @@ This repository and its contents are copyrighted. No part of this repository may
 
 
 
-## ℹ️ About
+## About
 
-This repository holds my personally designed posters, created with Adobe Photoshop. 🛠️ Each piece represents unique ideas, themes, and styles. Feel free to explore the collection, but note that **these works are not permitted for use or distribution by anyone** without my explicit permission. 🚫
+This repository holds my personally designed posters, created with Adobe Photoshop. 🛠️ Each piece represents unique ideas, themes, and styles. Feel free to explore the collection, but note that **these works are not permitted for use or distribution by anyone** without my explicit permission. 
 
-## 🖼️ Features
+## Features
 
-- **Unique Designs:** A variety of posters covering different themes, styles, and concepts. 🎨
-- **High-Quality Artwork:** Each poster is crafted with attention to detail and creativity. 🌟
-- **Photoshop Mastery:** Demonstrates advanced Photoshop skills and design techniques. 💻✨
+- **Unique Designs:** A variety of posters covering different themes, styles, and concepts. 
+- **High-Quality Artwork:** Each poster is crafted with attention to detail and creativity. 
+- **Photoshop Mastery:** Demonstrates advanced Photoshop skills and design techniques. 
   
-## 🚫 Usage
+## Usage
 
-The posters in this repository are **not available for personal or commercial use**. All rights are reserved, and any use, reproduction, or distribution without my permission is strictly prohibited. ❌
+The posters in this repository are **not available for personal or commercial use**. All rights are reserved, and any use, reproduction, or distribution without my permission is strictly prohibited. 
 
-## 🛠️ Tools Used
+## Tools Used
 
-- **Adobe Photoshop:** The go-to software for all poster designs in this collection. 🖌️🖥️
+- **Adobe Photoshop:** The go-to software for all poster designs in this collection. 
 
-## 📄 License
+## License
 
-These posters are not licensed for public or commercial use. They remain the exclusive property of the creator. 📃
+These posters are not licensed for public or commercial use. They remain the exclusive property of the creator. 
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
-Thank you for checking out my poster designs! Feel free to browse and get inspired, but remember—these works are for viewing purposes only. 🙌
+Thank you for checking out my poster designs! Feel free to browse and get inspired, but remember—these works are for viewing purposes only. 
 
-## 🖼️ Other Socials
+## Other Socials
 
 <img src = "https://github.com/aliiakbarkhan/photoshop-posters/blob/main/socials/Screenshot%202024-10-23%20225237.png" width="100%" height="auto"/>
 
