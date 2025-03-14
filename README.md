@@ -46,7 +46,7 @@ The posters in this repository are **not available for personal or commercial us
 
 ## License
 
-These posters are not licensed for public or commercial use. They remain the exclusive property of the creator. 
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
 
 ##  Acknowledgements
 
